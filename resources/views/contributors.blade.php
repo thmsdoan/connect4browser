@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Connect4Browser
+                    Contributors
                 </div>
 
                 <div class="links">
